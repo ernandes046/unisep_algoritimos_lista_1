@@ -1,6 +1,6 @@
 #media.py
-b1 = int(input("digite um numero da nota b1: "))
-b2 = int(input("digite um numero da nota b2:" ))
+b1 = float(input("digite um numero da nota b1: "))
+b2 = float(input("digite um numero da nota b2:" ))
 
 media = (b1 + b2) / 2
 
