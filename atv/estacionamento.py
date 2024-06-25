@@ -16,7 +16,6 @@ def menu():
         0 - Sair
 
         ''')
-
         opt = int(input('Escolha uma das opcoes: '))
         return opt
     except Exception as e:
